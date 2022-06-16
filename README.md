@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martnegrison2
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning python programming
+- 🌱 I’m currently learning, js and python programming
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me martin.nnamdi@yahoo.com
 
